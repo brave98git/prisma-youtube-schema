@@ -1,0 +1,1 @@
+# prisma-youtube-schema
